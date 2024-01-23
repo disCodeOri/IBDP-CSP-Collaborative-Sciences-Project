@@ -1,0 +1,10 @@
+<!-- Site intro -->
+    <div class="main">
+	    <h1>Choline Data Retrieval Portal (DRP)</h1>
+	    <p>Welcome to the DRP! Here, you can view the data collected from the Arduino set up.</p>
+	    <p>The data is stored in a spreadsheets database. You can view the data by clicking the link below:</p>
+
+        
+	    <!-- Link to the spreadsheet -->
+	    <button href="https://docs.google.com/spreadsheets/d/1tJz4">View data</button>
+    </div>
