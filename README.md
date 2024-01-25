@@ -1,2 +1,1 @@
-# CSP - Collaborative sciences project
-This is a repo only for the code of the website, as of yet...
+Website for The Athena
